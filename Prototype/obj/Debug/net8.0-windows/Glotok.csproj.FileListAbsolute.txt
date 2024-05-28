@@ -1,0 +1,17 @@
+D:\Glotok\bin\Debug\net8.0-windows\Glotok.exe
+D:\Glotok\bin\Debug\net8.0-windows\Glotok.deps.json
+D:\Glotok\bin\Debug\net8.0-windows\Glotok.runtimeconfig.json
+D:\Glotok\bin\Debug\net8.0-windows\Glotok.dll
+D:\Glotok\bin\Debug\net8.0-windows\Glotok.pdb
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.csproj.GenerateResource.cache
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.AssemblyInfoInputs.cache
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.AssemblyInfo.cs
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.csproj.CoreCompileInputs.cache
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.dll
+D:\Glotok\obj\Debug\net8.0-windows\refint\Glotok.dll
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.pdb
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.genruntimeconfig.cache
+D:\Glotok\obj\Debug\net8.0-windows\ref\Glotok.dll
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.Main.resources
+D:\Glotok\obj\Debug\net8.0-windows\Glotok.Fixes.resources
